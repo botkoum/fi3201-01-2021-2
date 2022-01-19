@@ -14,3 +14,5 @@ Hello world! 3 time
 Hello world! 4 time
 ```
 Tested at OneCompiler [3xqsxupmb](https://onecompiler.com/python/3xqsxupmb)
+
+![](assignment-02.png)
